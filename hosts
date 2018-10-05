@@ -7,24 +7,25 @@ ff02::2 ip6-allrouters
 
 ## hackthebox.eu
 10.10.10.3 lame.htb lame
-10.10.10.83 olympus.htb olympus
-10.10.10.76 sunday.htb sunday
+10.10.10.37 blocky.htb blocky
 10.10.10.72 fighter.htb fighter
+10.10.10.76 sunday.htb sunday
+10.10.10.77 reel.htb reel
+10.10.10.83 olympus.htb olympus
+10.10.10.86 dab.htb dab
+10.10.10.87 waldo.htb waldo
 10.10.10.88 tartarsauce.htb tartar
+10.10.10.89 smasher.htb smasher
 10.10.10.90 dropzone.htb dropzone
 10.10.10.91 devoops.htb devoops
-10.10.10.89 smasher.htb smasher
 10.10.10.93 bounty.htb bounty
-10.10.10.77 reel.htb reel
-10.10.10.95 jerry.htb jerry
 10.10.10.92 mischief.htb mischief
-10.10.10.102  hawk.htb hawk
 10.10.10.94 reddish.htb reddish
-10.10.10.100  active.htb active
-10.10.10.87 waldo.htb waldo
-10.10.10.86 dab.htb dab
-10.10.10.97 secnotes.htb secnotes
+10.10.10.95 jerry.htb jerry
 10.10.10.96 oz.htb oz
+10.10.10.97 secnotes.htb secnotes
+10.10.10.98 access.htb access
+10.10.10.100  active.htb active
+10.10.10.102  hawk.htb hawk
 10.10.104 giddy.htb giddy
 10.10.10.107  ypuffy.htb ypuffy
-10.10.10.98 access.htb access
