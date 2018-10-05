@@ -6,6 +6,7 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
 ## hackthebox.eu
+10.10.10.3 lame.htb lame
 10.10.10.83 olympus.htb olympus
 10.10.10.76 sunday.htb sunday
 10.10.10.72 fighter.htb fighter
